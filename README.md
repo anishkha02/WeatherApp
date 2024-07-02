@@ -1,6 +1,9 @@
 # weather_app
 
-A new Flutter project.
+Weather application that shows the current weather of your location
+- hourly weather and weekly weather also
+- shows the weather and temperature of whatever location you select
+  
 
 ## Getting Started
 
